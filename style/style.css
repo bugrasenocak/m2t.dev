@@ -11,7 +11,7 @@ body {
 .wrapper {
   width: 100vw;
   height: 100vh;
-  background: #9171ff url("../assets/background.png") no-repeat center/cover;
+  background: #9171ff url("../assets/background.jpg") no-repeat center/cover;
   background-size: cover;
   color: #ffffff;
   padding: 50px 20px 0;
